@@ -1,0 +1,40 @@
+body{
+    font-family: "Roboto Light", "sans-serif";
+    font-size: 15px;
+    background-color: lawngreen;
+}
+h1{
+    text-align: center;
+    font-family: "Tempus Sans ITC";
+    font-size: 50px;
+}
+div{
+    float: right;
+    font-size: 18px;
+}
+h2{
+    font-family: "Arial Black";
+}
+#cvfoto{
+    width: 250px;
+    height: 200px;
+}
+li{
+    font-size: 20px;
+    
+}
+p{
+    font-size: 20px;
+}
+#margin1{
+    margin-bottom: 15px;
+}
+table{
+    background-color: darkcyan;
+    border: solid black 5px;
+    font-size: 18px;
+}
+th{
+    text-align: center;
+}
+
